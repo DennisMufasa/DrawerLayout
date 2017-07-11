@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pur_Blanc</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navHeaderName">Jos</string>
+    <string name="email">denny.munga@outlook.com</string>
+    <string name="gallery">Welcome_To_Gallery</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
